@@ -1,2 +1,3 @@
 # n8n-project
-n8n workflow demo and templates
+
+Automated workflow project using n8n for integrations and automation.
